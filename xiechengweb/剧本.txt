@@ -1,0 +1,13 @@
+搜索图标首页的位置
+background-position: -59px -276px;
+右上角  头像位置
+background-position: -59px -193px;
+
+
+zepto.js  移动端jQuery
+
+iscroll.js 滚动加载，下拉刷新
+这个框架.
+自带的滚动条非常肉，没有惯性. 用这样的一个iscroll 可以做一个带惯性的滚动条.
+swipe.js  轮播图，移动端
+
